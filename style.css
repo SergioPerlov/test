@@ -1,0 +1,27 @@
+body{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	margin-left: 250px;
+	margin-right: 250px;
+	justify-content: center;
+	font-family: sans-serif;
+	font-family: Helvetica;
+    font-size: 18px;
+}
+tr{
+	display: flex;
+	justify-content:space-around;
+}
+button{
+	border-radius: 15px;
+	height: 50px;
+	width: 300px;
+	border: 1px solid black;
+	font-family: Helvetica;
+    font-size:18px;
+}
+h2{
+	font-family: Helvetica;
+    font-size:32px;
+}
